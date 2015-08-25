@@ -4,7 +4,6 @@
 /public_html/wp-content/uploads
 /public_html/sitemap.*
 /public_html/wp-config.php
-*.sql
 
 # Hidden files
 *.DS_Store
